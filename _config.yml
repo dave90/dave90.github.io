@@ -15,48 +15,32 @@ timezone: Europe/Rome
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: CinnamonSecCopy                          # the main title
+title: Lycyd Lynx                          # the main title
 
-tagline: Cyber Security interested.<br> Rubber Ducks lover.  # it will display as the sub-title
+tagline: Big Data and AI interested.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Cyber Security interested. Rubber Ducks Lover. 
+  Big Data and AI interested.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://nananan.github.io'
+url: 'https://dave90.github.io'
 
 github:
-  username: nananan             # change to your github username
+  username: dave90             # change to your github username
 
-twitter:
-  username: _cinnamon_92            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Eliana Cannella
-  email: eliana-c@live.it             # change to your email address
+  name: Davide Fusca
+  email: ddfusca@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/_cinnamon_92      # change to your twitter homepage
-    - https://github.com/nananan       # change to your github homepage
+    - https://github.com/dave90       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: google_meta_tag_verification # change to your verification string
-# --------------------------
-
-google_analytics:
-  id: 'G-4NBRMHJVCG'          # Fill with your Google Analytics ID
-  pv:
-    # The Google Analytics pageviews switch.
-    # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
-    enabled: false
-    # the next options only valid when `google_analytics.pv` is enabled.
-    proxy_url: ''
-    proxy_endpoint: ''
-    cache: false  # pv data local cache, good for the users from GFW area.
 
 # Prefer color scheme setting.
 #
