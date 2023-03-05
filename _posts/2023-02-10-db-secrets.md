@@ -103,7 +103,7 @@ The syntax must be:
 
 <img src="/assets/img/posts/db-secrets/env.png" class="center" width="100%" height="100%">
 
-## <span style="color: var(--link-color);">Reference link</span>
+# <span style="color: var(--link-color);">Reference link</span>
 [Azure databricks secret](https://learn.microsoft.com/en-us/azure/databricks/security/secrets/secret-scopes
 )
 
