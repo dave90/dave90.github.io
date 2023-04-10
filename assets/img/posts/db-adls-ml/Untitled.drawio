@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2023-04-09T11:26:18.226Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="_rtp3Tc5EuZJ93kMSNAi" version="21.1.5" type="device">
+  <diagram name="Pagina-1" id="7R9XT2i1V3wjiA5OsNE_">
+    <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P3st4Q41aBug7xv6obok-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="50" width="270" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="P3st4Q41aBug7xv6obok-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://s3.us-east-1.amazonaws.com/accredible_temp_credential_images/16002836894132567677717491881160.png;" vertex="1" parent="1">
+          <mxGeometry x="70" y="70" width="62" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="P3st4Q41aBug7xv6obok-3" value="Groups 1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="160" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="P3st4Q41aBug7xv6obok-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://w7.pngwing.com/pngs/421/822/png-transparent-users-group-encapsulated-postscript-user-profile-group-miscellaneous-black-information.png;" vertex="1" parent="1">
+          <mxGeometry x="90" y="160" width="50" height="27.79" as="geometry" />
+        </mxCell>
+        <mxCell id="P3st4Q41aBug7xv6obok-6" value="Groups 2" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="160" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="P3st4Q41aBug7xv6obok-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://w7.pngwing.com/pngs/421/822/png-transparent-users-group-encapsulated-postscript-user-profile-group-miscellaneous-black-information.png;" vertex="1" parent="1">
+          <mxGeometry x="220" y="160" width="50" height="27.79" as="geometry" />
+        </mxCell>
+        <mxCell id="P3st4Q41aBug7xv6obok-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="50" width="270" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="P3st4Q41aBug7xv6obok-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://w7.pngwing.com/pngs/727/690/png-transparent-azure-data-lake-microsoft-azure-cloud-computing-cloud-computing-cloud-computing-microsoft-azure-data.png;" vertex="1" parent="1">
+          <mxGeometry x="390" y="64.88" width="130" height="72.25" as="geometry" />
+        </mxCell>
+        <mxCell id="P3st4Q41aBug7xv6obok-10" value="Folder 1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://png.pngtree.com/png-clipart/20190614/original/pngtree-vector-folder-icon-png-image_3788101.jpg;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="P3st4Q41aBug7xv6obok-11" value="Data 2" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://png.pngtree.com/png-clipart/20190614/original/pngtree-vector-folder-icon-png-image_3788101.jpg;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="P3st4Q41aBug7xv6obok-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P3st4Q41aBug7xv6obok-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="265" y="340" />
+              <mxPoint x="530" y="340" />
+              <mxPoint x="530" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3st4Q41aBug7xv6obok-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P3st4Q41aBug7xv6obok-3" target="P3st4Q41aBug7xv6obok-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="135" y="370" />
+              <mxPoint x="410" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3st4Q41aBug7xv6obok-14" value="&lt;b&gt;Data lake&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P3st4Q41aBug7xv6obok-15" value="&lt;b&gt;Databricks&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
